@@ -1,0 +1,81 @@
+Cliente_ID,Cliente_Nombre,Estado,Segmento
+101,Gabriela Martínez Torres,Chihuahua,Minorista
+102,Patricia Cruz Mendoza,Ciudad de México,Minorista
+103,Guadalupe García López,Guanajuato,Corporativo
+104,Guadalupe Morales García,Puebla,Mayorista
+105,Juan Pérez Pérez,Estado de México,Minorista
+106,Raúl Cruz Reyes,Jalisco,Corporativo
+107,Verónica López Jiménez,Ciudad de México,Minorista
+108,Verónica García López,Guanajuato,Mayorista
+109,Patricia Martínez Mendoza,Nuevo León,Minorista
+110,Diego Rodríguez Gómez,Nuevo León,Minorista
+111,Ricardo Cruz Martínez,Guanajuato,Mayorista
+112,Raúl Mendoza Hernández,Guanajuato,Corporativo
+113,Laura Díaz Sánchez,Nuevo León,Mayorista
+114,Ana Ramírez Gómez,Ciudad de México,Minorista
+115,Luis Ramírez Jiménez,Ciudad de México,Mayorista
+116,Luis Hernández Díaz,Oaxaca,Corporativo
+117,Gabriela Mendoza Jiménez,Puebla,Minorista
+118,Fernando Gómez Vázquez,Ciudad de México,Mayorista
+119,Héctor Mendoza Morales,Veracruz,Minorista
+120,Carlos Pérez González,Puebla,Corporativo
+121,Luis Ramírez Vázquez,Estado de México,Mayorista
+122,Carlos González Rodríguez,Yucatán,Minorista
+123,Jorge Ramírez González,Guanajuato,Minorista
+124,Patricia González Cruz,Chihuahua,Minorista
+125,Ricardo Rodríguez Martínez,Chihuahua,Minorista
+126,Mariana Morales Gómez,Querétaro,Corporativo
+127,Mariana Mendoza Jiménez,Ciudad de México,Corporativo
+128,Patricia Vázquez Díaz,Jalisco,Minorista
+129,Miguel Martínez González,Ciudad de México,Minorista
+130,Verónica Morales Ortiz,Puebla,Minorista
+131,Guadalupe Sánchez Ortiz,Estado de México,Corporativo
+132,Jorge Sánchez González,Nuevo León,Minorista
+133,Héctor Martínez López,Ciudad de México,Minorista
+134,Verónica García Hernández,Oaxaca,Minorista
+135,Mariana Mendoza Ortiz,Chihuahua,Mayorista
+136,Laura Ramírez Ortiz,Ciudad de México,Mayorista
+137,Raúl Cruz Jiménez,Puebla,Mayorista
+138,Sofía Jiménez Ramírez,Veracruz,Minorista
+139,Miguel Reyes García,Jalisco,Mayorista
+140,Karla Mendoza Reyes,Puebla,Mayorista
+141,Arturo López Cruz,Jalisco,Minorista
+142,José Martínez Flores,Estado de México,Minorista
+143,Héctor Morales Torres,Nuevo León,Corporativo
+144,Miguel López Gómez,Veracruz,Corporativo
+145,Héctor Hernández González,Nuevo León,Minorista
+146,Sofía López Díaz,Ciudad de México,Minorista
+147,Alejandra Hernández Ortiz,Guanajuato,Minorista
+148,Miguel García Hernández,Veracruz,Corporativo
+149,Sofía Flores Morales,Estado de México,Corporativo
+150,Patricia Jiménez Gómez,Puebla,Mayorista
+151,Luis González Ortiz,Querétaro,Minorista
+152,Mariana Torres Torres,Nuevo León,Minorista
+153,Laura Ortiz López,Jalisco,Corporativo
+154,Luis López Ramírez,Querétaro,Minorista
+155,Daniela Vázquez Jiménez,Estado de México,Mayorista
+156,Arturo Pérez Pérez,Estado de México,Corporativo
+157,Guadalupe Gómez Torres,Ciudad de México,Minorista
+158,Sofía González Hernández,Ciudad de México,Corporativo
+159,Miguel Flores Hernández,Estado de México,Minorista
+160,Luis Hernández González,Ciudad de México,Minorista
+161,Verónica Mendoza González,Estado de México,Minorista
+162,Mariana Jiménez González,Veracruz,Minorista
+163,Jorge Pérez Díaz,Estado de México,Mayorista
+164,Daniela Torres Sánchez,Ciudad de México,Corporativo
+165,Carlos Ortiz Sánchez,Ciudad de México,Minorista
+166,Jorge Rodríguez Mendoza,Nuevo León,Minorista
+167,José Rodríguez González,Chihuahua,Mayorista
+168,José Gómez Flores,Oaxaca,Minorista
+169,Arturo Jiménez Pérez,Nuevo León,Minorista
+170,Verónica López Cruz,Guanajuato,Minorista
+171,Luis López Díaz,Ciudad de México,Mayorista
+172,Guadalupe Mendoza Gómez,Estado de México,Minorista
+173,María Ramírez Martínez,Querétaro,Mayorista
+174,Mariana Flores Gómez,Estado de México,Minorista
+175,Héctor Martínez Mendoza,Ciudad de México,Minorista
+176,Raúl González Jiménez,Veracruz,Minorista
+177,Mariana Gómez Jiménez,Ciudad de México,Mayorista
+178,Guadalupe López Reyes,Veracruz,Mayorista
+179,José Vázquez Flores,Yucatán,Mayorista
+180,Guadalupe González Pérez,Ciudad de México,Mayorista

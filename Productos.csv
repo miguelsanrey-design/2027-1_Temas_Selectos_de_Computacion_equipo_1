@@ -1,0 +1,61 @@
+Producto_ID,Producto_Nombre,Categoria,Precio_Unitario
+1001,Cuaderno profesional 100 hojas,Papelería,38.0
+1002,Paquete de hojas blancas 500 pzas,Papelería,118.0
+1003,Bolígrafos azules caja 12 pzas,Papelería,54.0
+1004,Marcadores permanentes set 4 pzas,Papelería,62.0
+1005,Carpeta tamaño carta,Papelería,45.0
+1006,Engrapadora metálica,Papelería,89.0
+1007,Clips caja 100 pzas,Papelería,18.0
+1008,Notas adhesivas,Papelería,42.0
+1009,Tijeras escolares,Papelería,35.0
+1010,Pegamento blanco 250 ml,Papelería,29.0
+1011,Folder manila paquete 25 pzas,Papelería,72.0
+1012,Calculadora científica,Papelería,245.0
+1013,Audífonos inalámbricos,Electrónica,499.0
+1014,Cable USB-C 1 m,Electrónica,99.0
+1015,Mouse inalámbrico,Electrónica,259.0
+1016,Teclado USB,Electrónica,329.0
+1017,Memoria USB 64 GB,Electrónica,149.0
+1018,Cargador de pared 20 W,Electrónica,199.0
+1019,Bocina Bluetooth,Electrónica,599.0
+1020,Cámara web HD,Electrónica,449.0
+1021,Batería portátil 10000 mAh,Electrónica,369.0
+1022,Hub USB 4 puertos,Electrónica,219.0
+1023,Regulador de voltaje,Electrónica,389.0
+1024,Monitor 24 pulgadas,Electrónica,2499.0
+1025,Juego de sábanas matrimonial,Hogar,459.0
+1026,Almohada de fibra,Hogar,179.0
+1027,Cobertor ligero,Hogar,529.0
+1028,Set de 6 vasos de vidrio,Hogar,149.0
+1029,Sartén antiadherente 26 cm,Hogar,259.0
+1030,Licuadora 600 W,Hogar,899.0
+1031,Lámpara de escritorio LED,Hogar,239.0
+1032,Organizador de plástico,Hogar,119.0
+1033,Cafetera de goteo,Hogar,649.0
+1034,Plancha de vapor,Hogar,499.0
+1035,Toallas de baño paquete 2 pzas,Hogar,299.0
+1036,Ventilador de mesa,Hogar,549.0
+1037,Detergente líquido 3 L,Limpieza,119.0
+1038,Cloro 1 L,Limpieza,28.0
+1039,Limpiador multiusos 900 ml,Limpieza,39.0
+1040,Jabón para trastes 750 ml,Limpieza,45.0
+1041,Suavizante de telas 2 L,Limpieza,69.0
+1042,Escoba de cerdas suaves,Limpieza,79.0
+1043,Trapeador de microfibra,Limpieza,129.0
+1044,Bolsas para basura 30 pzas,Limpieza,59.0
+1045,Desinfectante en aerosol,Limpieza,84.0
+1046,Papel higiénico paquete 12 rollos,Limpieza,97.0
+1047,Toallas de cocina paquete 3 pzas,Limpieza,49.0
+1048,Guantes de látex,Limpieza,32.0
+1049,Café molido 500 g,Alimentos,149.0
+1050,Azúcar estándar 1 kg,Alimentos,34.0
+1051,Arroz grano largo 1 kg,Alimentos,38.0
+1052,Frijol negro 1 kg,Alimentos,45.0
+1053,Aceite vegetal 1 L,Alimentos,52.0
+1054,Pasta para sopa 200 g,Alimentos,14.0
+1055,Atún en agua lata,Alimentos,24.0
+1056,Galletas surtidas paquete,Alimentos,42.0
+1057,Cereal de maíz 500 g,Alimentos,69.0
+1058,Leche UHT 1 L,Alimentos,29.0
+1059,Harina de trigo 1 kg,Alimentos,31.0
+1060,Chocolate en polvo 400 g,Alimentos,54.0
